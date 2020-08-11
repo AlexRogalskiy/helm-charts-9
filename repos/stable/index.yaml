@@ -3,12 +3,12 @@ entries:
   portshift-operator:
   - apiVersion: v1
     appVersion: v0.1.3
-    created: "2020-08-11T09:38:56.806537403+03:00"
+    created: "2020-08-11T10:54:09.69375887+03:00"
     description: |
       Portshift cloud-native security platform is an agentless security solution for containerized applications
-    digest: 4f183a6cd7a15c9e0708e18486019ffb98c78af8f724e035efbbe252fef0368d
+    digest: 88f0f6bbdc00d07bb11d9e18266915481aad490a4d9d6fed1e172f31d91daa22
     home: https://www.portshift.io/
-    icon: file://../logo.png
+    icon: https://www.portshift.io/wp-content/uploads/2019/10/portshift-logo-68.png
     keywords:
     - portshift
     - operator
@@ -25,4 +25,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/Portshift/helm-charts/master/repos/stable/portshift-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-11T09:38:56.805980968+03:00"
+generated: "2020-08-11T10:54:09.693182121+03:00"
